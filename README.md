@@ -2,7 +2,7 @@
 
 Este projeto implementa uma **mini plataforma de processamento de pedidos** utilizando serviços essenciais da AWS, como **EC2**, **SQS** e **CloudWatch Logs**, com uma API em **Node.js** e um **worker de consumo assíncrono**.
 
-O objetivo é demonstrar **arquitetura distribuída**, boas práticas básicas e provisionamento na nuvem — ideal para estudos de certificação (AWS Cloud Practitioner / Solutions Architect Associate) e para portfólio.
+O objetivo é demonstrar **arquitetura distribuída**, boas práticas básicas e provisionamento na nuvem.
 
 ---
 
